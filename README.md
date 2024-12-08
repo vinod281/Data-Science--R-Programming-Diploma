@@ -2,6 +2,12 @@
 
 Learn everything about R programming, from basic syntax to advanced data visualization and statistical analysis.
 
+<div style="display: flex; gap: 10px;">
+  <img src="./Screenshot%202024-12-07%20at%2002.11.33.png" alt="Screenshot 1" width="200" />
+  <img src="./Screenshot%202024-12-07%20at%2002.35.36.png" alt="Screenshot 2" width="200" />
+  <img src="./Screenshot%202024-12-07%20at%2002.44.56.png" alt="Screenshot 3" width="200" />
+  <img src="./Screenshot%202024-12-07%20at%2002.53.08.png" alt="Screenshot 4" width="200" />
+</div>
 ---
 
 ## 🛠 Features Covered
